@@ -1,3 +1,4 @@
+![logo](https://github.com/AvikSen116/AvikSen116/blob/main/oooooo.jpg)
 <h1 align="center">Hi 👋, I'm Avik sen</h1>
 <h3 align="center">A Passionate Frontend Developer and Data Analyst from India</h3>
 
